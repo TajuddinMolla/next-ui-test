@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@nextui-org/react": "^2.4.0",
+    "@syncfusion/ej2-react-gantt": "^25.2.6",
     "framer-motion": "^11.2.6",
     "next": "14.2.3",
     "react": "^18",
